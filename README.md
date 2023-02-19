@@ -1,6 +1,6 @@
 # Task Management (task-management-vue)
 
-A Quasar Project
+A Task Management UI
 
 ## Install the dependencies
 ```bash
